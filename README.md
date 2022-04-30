@@ -1,3 +1,3 @@
 # git_test
-Hey there.
-I guess this isn't actually my first repo, huh?
+Just a Git test using Xubuntu.
+Nothing fancy to see here.
